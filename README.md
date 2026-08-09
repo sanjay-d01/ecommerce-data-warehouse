@@ -30,8 +30,7 @@ Main staging tables:
 - `stg_customers`
 - `stg_orders`
 - `stg_products`
-- `stg_payments`
-- `stg_shipping`
+  
 
 ### 2. ODS Layer
 
