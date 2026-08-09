@@ -17,7 +17,7 @@ The data is processed through multiple layers — Staging, ODS, Data Warehouse, 
 ## 🏗️ Data Warehouse Architecture
 
 The project follows a layered data warehouse architecture:
-![E-Commerce Data Warehouse Architecture](ed609ec0-455e-4e3c-9ad6-b7f37db34dc7.png)
+![E-Commerce Data Warehouse Architecture](architecture.png)
 
 **Source Data → Staging Layer → ODS Layer → Data Warehouse → Data Mart → Business Analysis**
 
