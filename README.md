@@ -126,3 +126,11 @@ SQL queries are used to analyze:
 - Fact and dimension table design
 - Data validation
 - Business-oriented SQL analysis
+
+
+
+## 📁 Project Structure
+
+- `README.md` – Project documentation
+- `ecommerce_data_warehouse.sql` – Complete SQL data warehouse implementation
+- `Architecture Diagram` – Data warehouse architecture visualization
